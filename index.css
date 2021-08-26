@@ -3,6 +3,9 @@
 	margin: 0;
 	box-sizing: border-box;
 }
+body {
+	background-color: lightsalmon;
+}
 #F {
 	height: 100%;
 	width: 100%;
@@ -42,10 +45,10 @@ a {
 #Q {
 	position: absolute;
 	right: 10%;
-	top: 125vh;
+	top: 130vh;
 }
 #QQ {
 	position: absolute;
 	left: 10%;
-	top: 125vh;	
+	top: 130vh;	
 }
